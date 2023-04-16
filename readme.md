@@ -39,9 +39,9 @@ Howie Choset, Kevin M. Lynch, Seth Hutchinson, George A. Kantor, Wolfram Burgard
 
 ### Grading: 	
 
-The class will be graded based on **homeowrk (3 sets, 25%)**, **coding assignments (3 sets, 25%)**,  a **course project (20%)**, and a **final exam(30%)**. Homework and coding assignments will be graded mainly based on submission (80%) and spot checking (20%, i.e., grading some randomly selected problems). 
+The class will be graded based on **homeowrk (3 sets, 25%)**, **coding assignments (3 sets, 25%)**,  a **course project (20%)**, and a **final exam(30%)**. Homework and coding assignments will be graded mainly based on submission (80%) and spot checking (20%, i.e., grading some randomly selected problems or checking code performance for certain subroutines). 
 
-Letter grades curved based on performance; ~30% A, ~75% B or better   
+Letter grades curved based on performance; ~30% A, ~75% B or better. 
 
 ### Covered topics:
 
@@ -50,6 +50,8 @@ Letter grades curved based on performance; ~30% A, ~75% B or better
 3. Path and motion planning for a single mobile robot (3 weeks)<br>
 4. Multi-robot path planning (3 weeks) <br>
 5. Planning for robotic manipulation (3 weeks)
+
+
 
 
 
