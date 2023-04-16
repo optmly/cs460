@@ -1,68 +1,55 @@
 ## 01:198:460:01 INTRO COMP ROBOTICS (Rutgers CS 460)
 
-##  <p style="color:red">Tentative Course Information</p>
+##  Tentative Course Information
 
-### Instructor:	
+**Course is in-person, recitation required**
+
+### Instructor
 Jingjin Yu<br>
 Email: jingjin.yu@cs.rutgers.edu <br>
 Labe web: [arc-l.github.io](https://arc-l.github.io)
 
-### Lectures: 	
-MW: 5:40-7:00PM, TIL 232
+### Lectures
+MoTh, 12:10-1:30 PM, TIL 226
 
-Recitation (460 only):	
-Tu: 7:45-8:40PM, TIL 226
+### Recitations
+Section 01: Th, 2:15-3:10 PM, LSH-B117
+Section 02: Mo, 4:05-5:00 PM, TIL-246
 
-TAs:	
-460: Siwei Feng (siwei.feng@rutgers.edu), OH: Tuesdays 9:30-10:30, Hill 275 
+### TAs:	
+TBD
 
-560: Isidoros Marougkas (im316@scarletmail.rutgers.edu), OH: Wednesdays noon-1pm, 1 Spring St in NB, 3rd floor, Robotics Lab
+### Office hours
+TBD
 
-Course Delivery:	
-In person
+### References (all freely available):	
+This course will have lecture notes written by the instructor. The following materials will be useful as references for your journey into computational robotics: 
 
-Office hours: 	
-Wednesdays, 4:15-5:00 pm over zoom, and by appointment (two day advanced notice is a must)
-
-I will also stay after class for at least 15 minutes to answer any questions that you may have
-
-Textbooks (all downloadable):	
-[IAMR] Introduction to Autonomous Mobile RobotsLinks to an external site., 2nd Edition (downloadable within Rutgers)
-
+[IAMR] [Introduction to Autonomous Mobile Robots, 2nd Edition](https://ieeexplore.ieee.org/book/6267528) (downloadable within Rutgers)<br>
 Roland Siegwart, Illah Reza Nourbakhsh, Davide Scaramuzza
 
-[MR] Modern Robotics: Mechanics, Planning, and Control Links to an external site.
-
+[MR] [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) <br>
 Kevin M Lynch and Frank C. Park
 
-[PA] Planning Algorithms Links to an external site.
-
+[PA] [Planning Algorithms](http://lavalle.pl/planning/)<br>
 Steve LaValle
 
-[PRMTAI] Principles of Robot Links to an external site.Motion:TheoryLinks to an external site., Algorithms, and ImplementationsLinks to an external site.  (downloadable within Rutgers)
-
+[PRMTAI] [Principles of Robot Motion: Theory, Algorithms, and Implementations](https://ieeexplore.ieee.org/book/6267238) (downloadable within Rutgers)<br>
 Howie Choset, Kevin M. Lynch, Seth Hutchinson, George A. Kantor, Wolfram Burgard, Lydia E. Kavraki, Sebastian Thrun
 
-Exams: 	
-Midterm: in class, date TBD
+### Grading: 	
 
-Final: 12/21, 8-11PM (scheduled by Rutgers), location TBD
+The class will be graded based on **homeowrk (3 sets, 25%)**, **coding assignments (3 sets, 25%)**,  a **course project (20%)**, and a **final exam(30%)**. Homework and coding assignments will be graded mainly based on submission (80%) and spot checking (20%, i.e., grading some randomly selected problems). 
 
-Grading: 	
-HW + MP: total 6-8 sets, equally weighted, 55%
+Letter grades curved based on performance; ~30% A, ~75% B or better   
 
-Late HW/MP is accepted with 20% daily late penalty
+### Covered topics:
 
-Grading will be mainly based on completion (instead of correctness)
+1. Foundational knowledge for computational robotics (1 week)<br>
+2. Sensor mechanisms, localization, and mapping (2 weeks)<br>
+3. Path and motion planning for a single mobile robot (3 weeks)<br>
+4. Multi-robot path planning (3 weeks) <br>
+5. Planning for robotic manipulation (3 weeks)
 
-Midterm: 20% 
 
-Final: 25%
 
-For 460, 3% bonuses for attending recitations. Note that materials from recitations will appear on exams (up to 10%).
-
-For 560, students may choose to do a research project instead of doing exams. Interested students should inform me by 09/15. Must decide (choose one) before 10/01. Note that projects are expect to take much more time (and more difficult) than preparing for exams. By default, exams are assumed. 
-
-Letter grades curved based on performance; ~25% A, ~75% B or better   
-
-There are potential opportunities for a small amount of bonuses that cannot be anticipated/planned, e.g., taking attendance on a random date. 
