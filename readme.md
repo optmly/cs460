@@ -82,6 +82,7 @@ Letter grades curved based on performance; ~30% A, ~75% B or better.
 * Kinematic chains
 * Forward kinematics 
 * Inverse kinematics 
+* Rearrangement planning 
 * Task and motion planning 
 
 
