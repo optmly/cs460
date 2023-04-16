@@ -13,7 +13,7 @@ Labe web: [arc-l.github.io](https://arc-l.github.io)
 MoTh, 12:10-1:30 PM, TIL 226
 
 ### Recitations
-Section 01: Th, 2:15-3:10 PM, LSH-B117
+Section 01: Th, 2:15-3:10 PM, LSH-B117<br>
 Section 02: Mo, 4:05-5:00 PM, TIL-246
 
 ### TAs:	
