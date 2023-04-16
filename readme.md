@@ -2,7 +2,8 @@
 
 ##  Tentative Course Information
 
-**Course is in-person, recitation required**
+**Course is in-person; recitations are required to do the projects**<br>
+**You should know Python**
 
 ### Instructor
 Jingjin Yu<br>
